@@ -6,6 +6,7 @@
     - [크래인](Crain.kt)
     - [문자열 압축](StringZip.kt)
     - [오픈채팅방](Open.kt)
+    - [카펫](Carpet.kt)
 - 백준
     - [2xN 타일링 2](2xn2.kt)
     - [2007년](BeakJoon1924.kt)
