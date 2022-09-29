@@ -10,6 +10,7 @@
     - [프린트](Print.kt)
     - [하노이의 탑](Hanoi.kt)
     - [주차요금계산](ParkingPay.kt)
+    - [큰 수 구하기](BigNumber.kt)
 - 백준
     - [2xN 타일링 2](2xn2.kt)
     - [2007년](BeakJoon1924.kt)
