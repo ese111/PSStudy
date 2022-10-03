@@ -14,6 +14,7 @@
     - [튜플](tuple.kt)
     - [n^2 배열 자르기](n%5E2.kt)
     - [쿼드트리 압축 후 수세기](Quadtree.kt)
+    - [최댓값과 최솟값](MinAndMax.kt)
 - 백준
     - [2xN 타일링 2](2xn2.kt)
     - [2007년](BeakJoon1924.kt)
